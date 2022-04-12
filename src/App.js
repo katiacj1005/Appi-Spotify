@@ -17,7 +17,7 @@ import Error404 from "./pages/error404";
 export default function App() {
   const { Header, Content } = Layout;
 
- //search("hola mundo", "album");asdsad
+ //search("hola mundo", "album");
 
 
   return (
